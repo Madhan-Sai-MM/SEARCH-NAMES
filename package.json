@@ -1,0 +1,24 @@
+{
+  "name": "search-names",
+  "version": "1.0.0",
+  "description": "Search Names is created with html, css , js , nodejs withs express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madhan-Sai-MM/SEARCH-NAMES.git"
+  },
+  "author": "madhan mm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Madhan-Sai-MM/SEARCH-NAMES/issues"
+  },
+  "homepage": "https://github.com/Madhan-Sai-MM/SEARCH-NAMES#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,18 @@
+body{
+    margin-left: 5%;
+}
+
+table {
+  font-size: larger;
+  border-collapse: collapse;
+  width: 78%;
+}
+
+td, th {
+  text-align: left;
+  padding: 9px;
+}
+
+tr:nth-child(even) {
+  background-color: #afadad;
+}
